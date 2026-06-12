@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vinyl De Signs">
+  <rect width="64" height="64" rx="14" fill="#18182f"/>
+  <path d="M11 16h42L39 50H25L11 16Z" fill="#f8fbff"/>
+  <path d="M21 23h22l-7 20h-8l-7-20Z" fill="#6f35ff"/>
+  <path d="M29 23h14l-7 20h-7V23Z" fill="#2787d9"/>
+</svg>
