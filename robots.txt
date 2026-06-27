@@ -1,7 +1,10 @@
 User-agent: *
 Allow: /
-Disallow: /login
-Disallow: /dashboard
-Disallow: /admin
+Disallow: /api/
+Disallow: /admin/
 
-Sitemap: https://www.vinyldesignsfl.com/sitemap.xml
+# Sitemap
+Sitemap: https://marbritaesthetic.com/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
